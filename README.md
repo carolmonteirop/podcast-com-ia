@@ -13,7 +13,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Eleven Labs]([https://www.shakker.ai/pt/home](https://elevenlabs.io/))
+- [Eleven Labs](https://elevenlabs.io/)
 - [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
@@ -29,10 +29,10 @@ O formato do roteiro deve ser
 [Finalização]
 
 {REGRAS}
->No bloco [Introdução] substitua por uma introdução doce e elegante.
->No bloco [Curiosidade 1] substitua por uma curiosidade sobre como tomamos decisões de compra
->No bloco [Curiosidade 2] substitua por uma curiosidade sobre o modo de compra atual
->No bloco [Finalização] substitua por uma despedida doce e elegante com o final: Eu sou Carol e esse foi o "Por que Compramos?" dessa semana. Até a próxima!
+> No bloco [Introdução] substitua por uma introdução doce e elegante.
+> No bloco [Curiosidade 1] substitua por uma curiosidade sobre como tomamos decisões de compra
+> No bloco [Curiosidade 2] substitua por uma curiosidade sobre o modo de compra atual
+> No bloco [Finalização] substitua por uma despedida doce e elegante com o final: Eu sou Carol e esse foi o "Por que Compramos?" dessa semana. Até a próxima!
 
 ## ✨ Features
 
