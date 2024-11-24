@@ -41,4 +41,4 @@ O formato do roteiro deve ser
 - Imagem gerada via Canva
 
 ## 🎙️ Podcast
-[Clique no link para ouvir] (https://www.canva.com/design/DAGXWBVBfbw/SZQBLmHCVKZUnLIwd3Nd-Q/watch?utm_content=DAGXWBVBfbw&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+[Clique no link para ouvir] (https://encurtador.com.br/Wxmmr)
